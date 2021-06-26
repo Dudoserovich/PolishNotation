@@ -1,0 +1,5 @@
+/cygdrive/c/MyPrograms/PolishNotation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/MyPrograms/PolishNotation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/MyPrograms/PolishNotation/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/c/MyPrograms/PolishNotation/cmake-build-debug/CMakeFiles/tests.dir
+/cygdrive/c/MyPrograms/PolishNotation/cmake-build-debug/CMakeFiles/PolishNotation.dir

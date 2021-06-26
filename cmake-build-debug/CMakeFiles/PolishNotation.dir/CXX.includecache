@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Division.h
+
+../src/Minus.h
+
+../src/Mod.h
+
+../src/Multiply.h
+
+../src/Operation.h
+
+../src/Plus.h
+
+/cygdrive/c/MyPrograms/PolishNotation/RPN.cpp
+pch.h
+/cygdrive/c/MyPrograms/PolishNotation/pch.h
+iostream
+-
+stack
+-
+Operation.h
+/cygdrive/c/MyPrograms/PolishNotation/Operation.h
+Plus.h
+/cygdrive/c/MyPrograms/PolishNotation/Plus.h
+Minus.h
+/cygdrive/c/MyPrograms/PolishNotation/Minus.h
+Multiply.h
+/cygdrive/c/MyPrograms/PolishNotation/Multiply.h
+Mod.h
+/cygdrive/c/MyPrograms/PolishNotation/Mod.h
+Division.h
+/cygdrive/c/MyPrograms/PolishNotation/Division.h
+
+/cygdrive/c/MyPrograms/PolishNotation/pch.h
+

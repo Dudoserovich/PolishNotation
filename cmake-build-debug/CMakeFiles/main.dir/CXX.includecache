@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/MyPrograms/PolishNotation/main.cpp
+pch.h
+/cygdrive/c/MyPrograms/PolishNotation/pch.h
+iostream
+-
+
+/cygdrive/c/MyPrograms/PolishNotation/pch.h
+

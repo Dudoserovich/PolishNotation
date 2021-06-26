@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/PolishNotation.dir/main.cpp.o CMakeFiles/PolishNotation.dir/RPN.cpp.o -o PolishNotation.exe -Wl,--out-implib,libPolishNotation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
